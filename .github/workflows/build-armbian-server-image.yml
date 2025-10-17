@@ -250,6 +250,7 @@ on:
         options:
           - ophub
           - angel
+          - huo
 
 env:
   TZ: Etc/UTC
